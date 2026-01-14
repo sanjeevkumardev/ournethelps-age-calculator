@@ -3,7 +3,7 @@
 Easily calculate your **exact age** in years, months, days, hours, minutes, and even seconds.  
 This tool helps students, professionals, and anyone curious about their life journey track their age in multiple formats.
 
-👉 **Try it here:** [Age Calculator – OurNetHelps](https://ournethelps.com/age-calculator/)
+👉 **Try it here:** [Age Calculator – OurNetHelps](https://ournethelps.com/tools/utilities/age-calculator/)
 
 ---
 
@@ -36,9 +36,9 @@ This tool helps students, professionals, and anyone curious about their life jou
 ---
 
 ## 📚 Related Tools
-- [EMI Calculator](https://ournethelps.com/emi-calculator/)  
-- [PayPal Fee Calculator](https://ournethelps.com/paypal-fee-calculator/)  
-- [CGPA ⇄ Percentage Converter](https://ournethelps.com/cgpa-to-percentage-calculator/)
+- [Loan EMI Calculator](https://ournethelps.com/tools/finance/loan-emi-calculator/)  
+- [Credit Card EMI Calculator](https://ournethelps.com/tools/finance/credit-card-emi-calculator/)  
+- [CGPA ⇄ Percentage Converter](https://ournethelps.com/tools/utilities/cgpa-to-percentage-calculator/)
 
 ---
 
